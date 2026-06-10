@@ -1,0 +1,27 @@
+{
+  "name": "threadvibe-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Cloud API chatbot for a hoodie textile brand selling pre-printed and customized hoodies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "chatbot",
+    "cloud-api",
+    "nodejs",
+    "express",
+    "hoodies"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.108.1",
+    "axios": "^1.7.9",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "ws": "^8.21.0"
+  }
+}

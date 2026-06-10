@@ -1,0 +1,20 @@
+[
+  {
+    "customerName": "Dhanvi A",
+    "phoneNumber": "",
+    "orderType": "Customized hoodie",
+    "designCategory": "Custom uploaded design",
+    "customDesignUploaded": "Yes",
+    "size": "S",
+    "color": "Beige",
+    "printPlacement": "Front",
+    "printStyle": "Logo print",
+    "quantity": 3,
+    "address": "",
+    "paymentMethod": "Cash on Delivery",
+    "estimatedPrice": 2997,
+    "deliveryTime": "7-10 working days",
+    "orderStatus": "Confirmed",
+    "createdAt": "2026-06-10T06:47:48.449Z"
+  }
+]
